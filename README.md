@@ -1,1 +1,1 @@
-# cdbrown.github.io/idex.html
+# cdbrown.github.io/index.html
